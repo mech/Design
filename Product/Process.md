@@ -41,6 +41,8 @@
 
 ---
 
+> Remember, we ultimately don't develop code, we develop products that people use. We should use the best language for the job and let the snobs titter away into irrelevance.
+
 * Celebrate small wins.
 * Build your perspective.
 * Constraints are often advantages in disguise. Work with what you have. - Getting Real
