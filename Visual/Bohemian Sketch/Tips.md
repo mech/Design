@@ -1,5 +1,6 @@
 # Bohemian Sketch Tips
 
+* [Photoshop Etiquette](http://photoshopetiquette.com/)
 * [Designing Data with Sketch - With charts & tables](http://ivomynttinen.com/blog/designing-data-with-sketch)
 * [A Crafty way to automagically keep your design team in sync](https://medium.com/nordnet-design-studio/a-crafty-way-to-automagically-keep-your-design-team-in-sync-3d9483ee2d96#.lubnutnei)
 

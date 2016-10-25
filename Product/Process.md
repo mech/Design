@@ -24,6 +24,7 @@
 * [Leading and Lagging Indicators](https://ireneau.com/2015/08/19/ux-is-a-canary-in-a-coal-mine/)
 * [Design Principles by Jeremy Keith](https://principles.adactio.com/)
 * [Don't think big! Pick a small topic for our creative project!](https://blog.prototypr.io/dont-think-big-5ca8e7dd8b3d#.sjxhh3vr6)
+* [26 Steps of Product Dashboard Design](https://medium.com/sketch-app-sources/26-steps-of-product-dashboard-design-c97af84c4146#.ptl1z7g8m)
 
 ## Artefacts
 
