@@ -18,6 +18,10 @@
 
 > Pick small topic! If you pick a huge topic then there is not much room for your creative efforts. On the other hand, if you pick a small topic you have time and energy to make a great creative contribution. A small topic works like a catalyst for your ideas and leaves you enough room to come up with great results.
 
+---
+
+> Through this lens, one can hazard an explanation for the age-old problem of poor software development estimates. When the magnitude of the undertaking is not clear for the developer or designer, let alone for the people removed from the creation process, it's simply impossible to make any accurate predictions. - [Pure UI](http://rauchg.com/2015/pure-ui/)
+
 * [The Design Team](https://thedesignteam.io/)
 * [Design Process is a Myth](https://blog.marvelapp.com/design-process-is-a-myth/)
 * [A Design SDK](http://markboulton.co.uk/journal/a-design-sdk)
