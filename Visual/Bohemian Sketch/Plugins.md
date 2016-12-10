@@ -1,5 +1,7 @@
 # Sketch Plugins
 
+* [Text Style](http://www.textstyl.es/)
+
 ## Exporting
 
 * [Make Exportable](https://github.com/abynim/sketch-exportable)

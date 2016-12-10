@@ -18,6 +18,10 @@
 
 Trust is fragile and can be broken easily.
 
+## Prevent Buyer Remorse
+
+If you provide services to others, you need to prevent them from feeling sense of Buyer Remorse.
+
 ## Videos
 
 * [Pixel Bonding](https://www.youtube.com/watch?v=-BU5aXjC_cM)
