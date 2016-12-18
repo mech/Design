@@ -1,9 +1,15 @@
 # Bohemian Sketch Tips
 
+> Illustration is content. Like the writer who tells the story of how a product fits seamlessly into our lives, illustrators use literary tools to connect complex ideas to the relatable experiences behind them, working to unearth the deeper reasons and intangible benefits that drive us to use a product - [Using Metaphor in Product Illustration](https://medium.com/shopify-ux/effectively-using-metaphor-in-product-illustration-62bdccbe14e4#.a98qkyao6)
+
 * [Photoshop Etiquette](http://photoshopetiquette.com/)
 * [Designing Data with Sketch - With charts & tables](http://ivomynttinen.com/blog/designing-data-with-sketch)
 * [A Crafty way to automagically keep your design team in sync](https://medium.com/nordnet-design-studio/a-crafty-way-to-automagically-keep-your-design-team-in-sync-3d9483ee2d96#.lubnutnei)
 * [Sketch Talk](http://sketchtalk.io/)
+
+## Artboards and Pages
+
+You can have as many Artboards on the canvas as you like, but try to separate them into Pages for better performance.
 
 ## Group Resizing
 
